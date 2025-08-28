@@ -15,8 +15,8 @@ This structured data powers **Power BI reports and dashboards**, giving stakehol
 ## 🔹 About Me
 I’m a Data Analyst & SQL Developer with more than 5 years of experience turning data into actionable insights.
 Skilled in Power BI, creating interactive dashboards, and building data models that drive better business decisions.
-🔹 Experienced SQL Server Developer, optimizing queries, designing databases, and managing ETL processes.
-🔹 Proficient in Python for data analysis, automation, and integration with BI tools.
+- Experienced SQL Server Developer, optimizing queries, designing databases, and managing ETL processes.
+- Proficient in Python for data analysis, automation, and integration with BI tools.
 
 ## 🔹 Certifications:
 - Microsoft Certified: Power BI Data Analyst Associate
