@@ -18,7 +18,7 @@ Skilled in Power BI, creating interactive dashboards, and building data models t
 - Experienced SQL Server Developer, optimizing queries, designing databases, and managing ETL processes.
 - Proficient in Python for data analysis, automation, and integration with BI tools.
 
-## 🔹 Certifications:
+## 🔹 Certifications
 - Microsoft Certified: Power BI Data Analyst Associate
 - Microsoft Certified: Fabric Analytics Engineer Associate
 - Microsoft Certified: Fabric Data Engineer Associate
