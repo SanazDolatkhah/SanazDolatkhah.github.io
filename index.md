@@ -1,4 +1,4 @@
-# Sanaz Dolatkhah — Data & Reporting Engineer
+# Sanaz Dolatkhah — Data Analyst and Data Engineer
 
 I design and deliver data pipelines that integrate **Qualtrics survey data** into **Microsoft SQL Server**, transforming raw responses into **decision-ready insights**.  
 This structured data powers **Power BI reports and dashboards**, giving stakeholders clear visibility into survey results, open-text feedback, and performance trends.
