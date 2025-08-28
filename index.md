@@ -7,18 +7,24 @@ This structured data powers **Power BI reports and dashboards**, giving stakehol
 
 ## 🔹 Featured Project
 ### Survey Reporting Pipeline
-- **Tech stack**: Python, Pandas, SQL Server, Qualtrics API  
+- **Tech stack**: Qualtrics API, Python, Pandas, SQL Server, Power BI
 - **Repository**: [Qualtrics_Integration_With_SQLServer](https://github.com/SanazDolatkhah/Qualtrics_Integration_With_SQLServer)  
 
 ---
 
 ## 🔹 About Me
-- Experienced in ETL workflows and survey data automation  
-- Skilled with APIs, SQL, Python, and reporting tools  
-- Passionate about turning raw data into meaningful business insights  
+I’m a Data Analyst & SQL Developer with more than 5 years of experience turning data into actionable insights.
+Skilled in Power BI, creating interactive dashboards, and building data models that drive better business decisions.
+🔹 Experienced SQL Server Developer, optimizing queries, designing databases, and managing ETL processes.
+🔹 Proficient in Python for data analysis, automation, and integration with BI tools.
 
----
+## Certifications:
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Fabric Analytics Engineer Associate
+- Microsoft Certified: Fabric Data Engineer Associate
+
+Passionate about transforming raw data into meaningful stories, streamlining data pipelines, and empowering organizations to make data-driven decisions.
 
 ## 🔹 Contact
-- 📧 Email: sanaz.dolatkhah@cfib.ca  
-- 💼 LinkedIn: https://www.linkedin.com/in/sanaz-dolatkhah 
+- 📧 Email: sanaz.dolatkhah@gmail.com 
+- 💼 LinkedIn: *https://www.linkedin.com/in/sanaz-dolatkhah*
